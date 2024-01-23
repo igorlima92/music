@@ -9,7 +9,7 @@ const title = document.querySelector('#title');
 const cover = document.querySelector('#cover');
 
 // array para as músicas
-const songs = ['Love Hate', 'Rapture', 'When I GO']
+const songs = ['Love Hate', 'Rapture', 'When I GO', 'When Im Small']
 
 let songIndex = 0;
 
