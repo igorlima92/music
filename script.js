@@ -53,7 +53,7 @@ function nextSong() {
     songIndex++;
 
     if(songIndex > songs.length - 1) {
-        songIndex = 2;
+        songIndex = 3;
     }
 
     loadSong(songs [songIndex]);
